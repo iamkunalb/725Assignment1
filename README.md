@@ -1,6 +1,6 @@
 # 725Assignment1
 
-Simple File Transfer Protocol
+# Simple File Transfer Protocol
 
 Compiling/Running the project
 * Open Eclipse
